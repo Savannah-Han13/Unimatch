@@ -1,4 +1,4 @@
-# UniMatch, University Program Matcher and Ranker
+# Unimatch, University Program Matcher and Ranker
 This project is an interactive application designed to help highschool students determine which university programs are the best fit for them based on their academic performance and course history. The quiz is developed using Java and Swing, and is designed to be user-friendly and accessible to students of all skill levels.
 
 ## Features
